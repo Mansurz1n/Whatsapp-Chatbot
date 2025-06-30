@@ -11,7 +11,7 @@ import openai
 
 # navegador
 def iniciar_navegador():
-  Chrome_Profile_Path =  r"C:\Users\gabco\AppData\Local\Google\Chrome\User Data\Default"
+  Chrome_Profile_Path =  r""
 
 
   options = webdriver.ChromeOptions()
